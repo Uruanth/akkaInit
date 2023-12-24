@@ -24,3 +24,7 @@ Asrc/main/scala/part4faulttolerance/BackoffSupervisorPattern.scala,5\7\57a5635d
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+`
+0src/main/scala/part5Infra/TimersSchedulers.scala,5\5\55f33f4a2aa76ca17f273c3ae772115b6ffccc52
+W
+'src/main/scala/part5Infra/Routers.scala,9\3\93cb6209362221b7aa431ebe6c711c8d79b7170b
