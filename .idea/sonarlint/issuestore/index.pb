@@ -28,3 +28,9 @@ Asrc/main/scala/part4faulttolerance/BackoffSupervisorPattern.scala,5\7\57a5635d
 0src/main/scala/part5Infra/TimersSchedulers.scala,5\5\55f33f4a2aa76ca17f273c3ae772115b6ffccc52
 W
 'src/main/scala/part5Infra/Routers.scala,9\3\93cb6209362221b7aa431ebe6c711c8d79b7170b
+[
++src/main/scala/part5Infra/Dispatchers.scala,4\d\4d4c7c8ca1f5ecb5ac52499e8ce9e0776408b296
+`
+0src/main/scala/part1recap/MultiThreadRecap.scala,6\e\6efd0085f6db1f833daf9450f41e9cd7525b79ac
+Y
+)src/main/scala/part5Infra/MailBoxes.scala,8\8\88b22a94a84953b24fbfe4bce819c3815f9854a5
