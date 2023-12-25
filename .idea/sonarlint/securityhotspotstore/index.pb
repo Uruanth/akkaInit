@@ -34,3 +34,5 @@ W
 0src/main/scala/part1recap/MultiThreadRecap.scala,6\e\6efd0085f6db1f833daf9450f41e9cd7525b79ac
 Y
 )src/main/scala/part5Infra/MailBoxes.scala,8\8\88b22a94a84953b24fbfe4bce819c3815f9854a5
+\
+,src/main/scala/part6patterns/StashDemo.scala,7\2\7201e8bb8ad5bbdc5d01e0830c3c087f9f842e37
