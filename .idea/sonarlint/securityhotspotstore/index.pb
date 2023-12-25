@@ -36,3 +36,5 @@ Y
 )src/main/scala/part5Infra/MailBoxes.scala,8\8\88b22a94a84953b24fbfe4bce819c3815f9854a5
 \
 ,src/main/scala/part6patterns/StashDemo.scala,7\2\7201e8bb8ad5bbdc5d01e0830c3c087f9f842e37
+Z
+*src/main/scala/part6patterns/AskSpec.scala,2\4\246f0b26b72a7d00bd38987756a928b1581a5302
